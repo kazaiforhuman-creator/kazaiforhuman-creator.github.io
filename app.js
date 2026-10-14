@@ -133,7 +133,7 @@ function render() {
     <h1><span class="ai">AI</span><span class="te">の<em>手</em></span></h1>
     <div class="underline" aria-hidden="true"></div>
     <p class="catch">AIを人の「<em>合いの手</em>」に</p>
-    <p class="about">AI と一緒に作った、制作を補助するツールを公開しています。作るのは人間。AIはツール。</p>
+    <p class="about">AI と一緒に作った、制作を補助するツールを公開しています。<br>作るのは人間。AIはツール。</p>
     <div class="spec"><span>開設 2026.10.14</span><span>公開中 ${counts.live} 点</span><span>製作中 ${counts.wip} 点</span><span>構想 ${counts.idea} 点</span></div>
   </header>
 
