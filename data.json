@@ -1,0 +1,46 @@
+{
+ "tools": [
+  {
+   "id": "t1",
+   "pn": "AT-01",
+   "name": "RhythFist",
+   "cat": "MUSIC",
+   "status": "live",
+   "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDI0IDEwMjQiIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjEwMjQiPgogIDxkZWZzPgogICAgPHBhdHRlcm4gaWQ9InRvbGV4IiB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHBhdHRlcm5Vbml0cz0idXNlclNwYWNlT25Vc2UiIHBhdHRlcm5UcmFuc2Zvcm09InJvdGF0ZSg0NSkiPgogICAgICA8cmVjdCB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIGZpbGw9IiMxNzEyMGYiLz48cmVjdCB3aWR0aD0iNSIgaGVpZ2h0PSIxOCIgZmlsbD0iIzIyMWIxNiIvPgogICAgPC9wYXR0ZXJuPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJ3aW5lIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2Q2M2M1NSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzZlMTYyNiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZCIgeDE9IjAiIHkxPSIwIiB4Mj0iMCIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNmZmM1NjIiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNlODk0MWYiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJzaGFkb3ciIHg9Ii0yMCUiIHk9Ii0yMCUiIHdpZHRoPSIxNDAlIiBoZWlnaHQ9IjE0MCUiPgogICAgICA8ZmVEcm9wU2hhZG93IGR4PSIxMCIgZHk9IjI0IiBzdGREZXZpYXRpb249IjIwIiBmbG9vZC1jb2xvcj0iIzAwMCIgZmxvb2Qtb3BhY2l0eT0iLjY1Ii8+CiAgICA8L2ZpbHRlcj4KICAgIDxmaWx0ZXIgaWQ9Imdsb3ciIHg9Ii0zMCUiIHk9Ii0zMCUiIHdpZHRoPSIxNjAlIiBoZWlnaHQ9IjE2MCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgaW49IlNvdXJjZUFscGhhIiBzdGREZXZpYXRpb249IjIyIiByZXN1bHQ9ImIiLz4KICAgICAgPGZlRmxvb2QgZmxvb2QtY29sb3I9IiNmMGE4M2EiIGZsb29kLW9wYWNpdHk9Ii43NSIvPjxmZUNvbXBvc2l0ZSBpbjI9ImIiIG9wZXJhdG9yPSJpbiIgcmVzdWx0PSJnIi8+CiAgICAgIDxmZU1lcmdlPjxmZU1lcmdlTm9kZSBpbj0iZyIvPjxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPjwvZmVNZXJnZT4KICAgIDwvZmlsdGVyPgogICAgPGNsaXBQYXRoIGlkPSJwaWNrY2xpcCI+PHBhdGggaWQ9InBpY2twIiBkPSJNNTEyIDEzMiBDIDc3MCAxMzIgOTAyIDE5NiA4ODQgMzMwIEMgODYyIDUyMCA2NTAgODAwIDU2NiA5MDAgUSA1MTIgOTYyIDQ1OCA5MDAgQyAzNzQgODAwIDE2MiA1MjAgMTQwIDMzMCBDIDEyMiAxOTYgMjU0IDEzMiA1MTIgMTMyIFoiLz48L2NsaXBQYXRoPgogIDwvZGVmcz4KICA8cmVjdCB4PSIyNCIgeT0iMjQiIHdpZHRoPSI5NzYiIGhlaWdodD0iOTc2IiByeD0iMjAwIiBmaWxsPSJ1cmwoI3RvbGV4KSIgc3Ryb2tlPSIjNWE0NjM4IiBzdHJva2Utd2lkdGg9IjE0Ii8+CiAgPGcgZmlsdGVyPSJ1cmwoI3NoYWRvdykiPjx1c2UgaHJlZj0iI3BpY2twIiBmaWxsPSJ1cmwoI3dpbmUpIi8+PC9nPgogIDxwYXRoIGQ9Ik01MTIgMTMyIEMgNzcwIDEzMiA5MDIgMTk2IDg4NCAzMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YwN2Q4ZSIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBvcGFjaXR5PSIuODUiLz4KICA8cGF0aCBkPSJNNTEyIDEzMiBDIDI1NCAxMzIgMTIyIDE5NiAxNDAgMzMwIiBmaWxsPSJub25lIiBzdHJva2U9IiNmMDdkOGUiIHN0cm9rZS13aWR0aD0iMTAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgb3BhY2l0eT0iLjg1Ii8+CiAgPCEtLSDmi7PvvIjmj6HjgaPjgZ/miYvjga7nlLLlgbTjgIHopqrmjIfjgYzliY3jgpLmqKrliIfjgovvvIkgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzAyIDIwNikgc2NhbGUoMS4wOCkiIGZpbHRlcj0idXJsKCNnbG93KSIgZmlsbD0idXJsKCNnb2xkKSIgc3Ryb2tlPSIjNGEwZDE5IiBzdHJva2Utd2lkdGg9IjE2IiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KICAgIDxyZWN0IHg9IjEyMCIgeT0iMzYwIiB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE0MCIgcng9IjE4Ii8+CiAgICA8cmVjdCB4PSIzNCIgeT0iMTIwIiB3aWR0aD0iMzM2IiBoZWlnaHQ9IjI3MCIgcng9IjgwIi8+CiAgICA8cmVjdCB4PSIyOTAiIHk9Ijc4IiB3aWR0aD0iODgiIGhlaWdodD0iMTkwIiByeD0iNDQiLz4KICAgIDxyZWN0IHg9IjIwMyIgeT0iNDQiIHdpZHRoPSI5MiIgaGVpZ2h0PSIyMTAiIHJ4PSI0NiIvPgogICAgPHJlY3QgeD0iMTE0IiB5PSI0MCIgd2lkdGg9IjkyIiBoZWlnaHQ9IjIxNCIgcng9IjQ2Ii8+CiAgICA8cmVjdCB4PSIyNiIgeT0iNjIiIHdpZHRoPSI5MiIgaGVpZ2h0PSIxOTYiIHJ4PSI0NiIvPgogICAgPHBhdGggZD0iTTYwIDE3MCBoNDAgTTE1MCAxNTAgaDQwIE0yNDAgMTUwIGg0MCBNMzI1IDE3MCBoMzYiIHN0cm9rZS13aWR0aD0iMTIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogICAgPHJlY3QgeD0iMTAiIHk9IjIyNiIgd2lkdGg9IjI3MCIgaGVpZ2h0PSI5NiIgcng9IjQ4Ii8+CiAgICA8cGF0aCBkPSJNMTk2IDI1MiBxIDMwIDQgNTggMjIiIGZpbGw9Im5vbmUiIHN0cm9rZS13aWR0aD0iMTAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDwvZz4KPC9zdmc+Cg==",
+   "one": "キー・コード進行・テンポを指定すると、ドラム・ベース・コードの伴奏を再生します。",
+   "does": "指定したコード進行の伴奏を再生します。鍵盤を使って曲のキーを調べられます。",
+   "hand": "複数のコード進行を聴き比べて選び、制作ソフトに書き写します。",
+   "url": "https://kazaiforhuman-creator.github.io/rhythfist/",
+   "x": ""
+  }
+ ],
+ "news": [
+  {
+   "d": "2026-10-14",
+   "t": "サイトを開設しました。AT-01 RhythFist を公開しました。"
+  }
+ ],
+ "faq": [
+  {
+   "id": "q1",
+   "q": "ツールに AI は使われていますか？",
+   "a": "使われていません。ツールの制作には AI（Claude）を使用していますが、ツールそのものは AI を使用しておらず、AI 系の API も呼び出していません。"
+  },
+  {
+   "id": "q2",
+   "q": "入力した内容はどこかに送信されますか？",
+   "a": "送信されません。ツールはブラウザの中だけで動作します。"
+  },
+  {
+   "id": "q3",
+   "q": "利用するのに登録やインストールは必要ですか？",
+   "a": "必要ありません。ブラウザでページを開くだけで使えます。"
+  },
+  {
+   "id": "q4",
+   "q": "ツールの要望や不具合はどこに伝えればよいですか？",
+   "a": "このページの「お問い合わせ」に記載しているメールアドレスまでお送りください。"
+  }
+ ],
+ "contact": "kaz.aiforhuman@gmail.com"
+}
