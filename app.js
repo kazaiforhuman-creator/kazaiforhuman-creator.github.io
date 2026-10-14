@@ -1,5 +1,6 @@
 // ページの中身はすべて data.json から描く。
 // 編集はアドレスの末尾に #edit を付けて開き、GitHub のトークンで data.json を書き換える（リポジトリに書き込める人しか保存できない）
+// トークンを保存したブラウザでは、上の帯に「編集」ボタンが出る（ほかの人には出ない）
 const REPO = { owner: "kazaiforhuman-creator", name: "kazaiforhuman-creator.github.io", path: "data.json", branch: "main" };
 const DRAFT_KEY = "ainote-draft";
 const TOKEN_KEY = "ainote-gh-token";
@@ -125,7 +126,7 @@ function render() {
   const draftNote = ui.draft && ui.editMode && !ui.editing ? `<div class="editbar"><span>保存されていない編集内容が残っています。</span><span class="actions"><button type="button" class="btn primary" data-act="draft-restore">復元して編集</button><button type="button" class="btn" data-act="draft-drop">破棄</button></span></div>` : "";
 
   app.innerHTML = `
-  <div class="bar"><span>AI NO TE</span><a href="https://x.com/KazAIforHuman" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">X @KazAIforHuman ↗</a></div>
+  <div class="bar"><span>AI NO TE</span><span style="display:flex;gap:16px;align-items:center">${!ui.editMode && store.get(TOKEN_KEY) ? `<a class="btn" href="#edit" style="text-decoration:none">編集</a>` : ""}<a href="https://x.com/KazAIforHuman" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">X @KazAIforHuman ↗</a></span></div>
   ${draftNote}${editPanel()}
   ${ui.msg ? `<p class="msg" role="status">${esc(ui.msg)}</p>` : ""}
 
